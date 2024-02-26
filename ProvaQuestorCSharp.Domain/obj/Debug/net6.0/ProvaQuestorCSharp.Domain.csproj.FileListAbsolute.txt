@@ -1,0 +1,11 @@
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\bin\Debug\net6.0\ProvaQuestorCSharp.Domain.deps.json
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\bin\Debug\net6.0\ProvaQuestorCSharp.Domain.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\bin\Debug\net6.0\ProvaQuestorCSharp.Domain.pdb
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\obj\Debug\net6.0\ProvaQuestorCSharp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\obj\Debug\net6.0\ProvaQuestorCSharp.Domain.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\obj\Debug\net6.0\ProvaQuestorCSharp.Domain.AssemblyInfo.cs
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\obj\Debug\net6.0\ProvaQuestorCSharp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\obj\Debug\net6.0\ProvaQuestorCSharp.Domain.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\obj\Debug\net6.0\refint\ProvaQuestorCSharp.Domain.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\obj\Debug\net6.0\ProvaQuestorCSharp.Domain.pdb
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Domain\obj\Debug\net6.0\ref\ProvaQuestorCSharp.Domain.dll

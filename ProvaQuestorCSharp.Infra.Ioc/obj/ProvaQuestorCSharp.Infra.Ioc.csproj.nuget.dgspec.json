@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj",
+        "projectName": "ProvaQuestorCSharp.Application",
+        "projectPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj",
+        "packagesPath": "C:\\Users\\Erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj",
+        "projectName": "ProvaQuestorCSharp.Domain",
+        "projectPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj",
+        "projectName": "ProvaQuestorCSharp.Infra.Data",
+        "projectPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj",
+        "projectName": "ProvaQuestorCSharp.Infra.Ioc",
+        "projectPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj": {
+                "projectPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj"
+              },
+              "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj"
+              },
+              "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\bin\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.deps.json
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\bin\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\bin\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.pdb
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.AssemblyInfo.cs
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\refint\ProvaQuestorCSharp.Infra.Data.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.pdb
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\ref\ProvaQuestorCSharp.Infra.Data.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\bin\Debug\net6.0\ProvaQuestorCSharp.Domain.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\bin\Debug\net6.0\ProvaQuestorCSharp.Domain.pdb
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\ProvaQuestorCSharp.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Infra.Data\obj\Debug\net6.0\ProvaQue.B1DB4BC5.Up2Date

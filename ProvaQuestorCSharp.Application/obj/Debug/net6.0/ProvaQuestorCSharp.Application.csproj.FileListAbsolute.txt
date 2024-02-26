@@ -1,0 +1,15 @@
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\bin\Debug\net6.0\ProvaQuestorCSharp.Application.deps.json
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\bin\Debug\net6.0\ProvaQuestorCSharp.Application.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\bin\Debug\net6.0\ProvaQuestorCSharp.Application.pdb
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\ProvaQuestorCSharp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\ProvaQuestorCSharp.Application.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\ProvaQuestorCSharp.Application.AssemblyInfo.cs
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\ProvaQuestorCSharp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\ProvaQuestorCSharp.Application.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\refint\ProvaQuestorCSharp.Application.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\ProvaQuestorCSharp.Application.pdb
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\ref\ProvaQuestorCSharp.Application.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\bin\Debug\net6.0\ProvaQuestorCSharp.Domain.dll
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\bin\Debug\net6.0\ProvaQuestorCSharp.Domain.pdb
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\ProvaQuestorCSharp.Application.csproj.AssemblyReference.cache
+C:\Users\Erick\source\repos\ProvaQuestorCSharp\ProvaQuestorCSharp.Application\obj\Debug\net6.0\ProvaQue.0E2806E7.Up2Date

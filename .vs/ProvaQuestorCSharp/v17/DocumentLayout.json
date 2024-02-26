@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\provaquestorcsharp\\controllers\\bancocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\controllers\\bancocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\provaquestorcsharp\\controllers\\boletocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\controllers\\boletocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|c:\\users\\erick\\source\\repos\\provaquestorcsharp\\provaquestorcsharp\\application\\swagger\\swaggerdefaultvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\application\\swagger\\swaggerdefaultvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0EF70E-CA3D-44C6-BEDF-7D836016FFEB}|ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj|c:\\users\\erick\\source\\repos\\provaquestorcsharp\\provaquestorcsharp.infra.data\\provaquestorcsharp.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF0EF70E-CA3D-44C6-BEDF-7D836016FFEB}|ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj|solutionrelative:provaquestorcsharp.infra.data\\provaquestorcsharp.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CB4EC0-F151-4494-BA3D-122292E298D5}|ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj|c:\\users\\erick\\source\\repos\\provaquestorcsharp\\provaquestorcsharp.domain\\provaquestorcsharp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96CB4EC0-F151-4494-BA3D-122292E298D5}|ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj|solutionrelative:provaquestorcsharp.domain\\provaquestorcsharp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC604DD7-2C4C-4E28-99F1-3B6DBB8EF707}|ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj|c:\\users\\erick\\source\\repos\\provaquestorcsharp\\provaquestorcsharp.application\\provaquestorcsharp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC604DD7-2C4C-4E28-99F1-3B6DBB8EF707}|ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj|solutionrelative:provaquestorcsharp.application\\provaquestorcsharp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC83BE7-D70C-4BF2-A5C2-7D4D391EC48A}|ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj|c:\\users\\erick\\source\\repos\\provaquestorcsharp\\provaquestorcsharp.infra.ioc\\provaquestorcsharp.infra.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BC83BE7-D70C-4BF2-A5C2-7D4D391EC48A}|ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj|solutionrelative:provaquestorcsharp.infra.ioc\\provaquestorcsharp.infra.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|c:\\users\\erick\\source\\repos\\provaquestorcsharp\\provaquestorcsharp\\infrastructure\\repositories\\boletorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\infrastructure\\repositories\\boletorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\provaquestorcsharp\\application\\viewmodel\\bancoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\application\\viewmodel\\bancoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\provaquestorcsharp\\infrastructure\\repositories\\bancorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\infrastructure\\repositories\\bancorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\provaquestorcsharp\\domain\\model\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\domain\\model\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\provaquestorcsharp\\domain\\model\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\domain\\model\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\provaquestorcsharp\\domain\\dtos\\boletodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\domain\\dtos\\boletodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\provaquestorcsharp\\domain\\model\\ibancorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\domain\\model\\ibancorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\provaquestorcsharp\\domain\\dtos\\bancodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004AD264-4B11-4347-BDCA-31A0D5FC2AF1}|ProvaQuestorCSharp\\ProvaQuestorCSharp.csproj|solutionrelative:provaquestorcsharp\\domain\\dtos\\bancodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwaggerDefaultValues.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Application\\Swagger\\SwaggerDefaultValues.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Application\\Swagger\\SwaggerDefaultValues.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Application\\Swagger\\SwaggerDefaultValues.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Application\\Swagger\\SwaggerDefaultValues.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:42:44.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProvaQuestorCSharp.Application",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj",
+              "RelativeToolTip": "ProvaQuestorCSharp.Application\\ProvaQuestorCSharp.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T08:40:24.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProvaQuestorCSharp.Infra.Ioc",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj",
+              "RelativeToolTip": "ProvaQuestorCSharp.Infra.Ioc\\ProvaQuestorCSharp.Infra.Ioc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T08:39:06.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProvaQuestorCSharp.Infra.Data",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj",
+              "RelativeToolTip": "ProvaQuestorCSharp.Infra.Data\\ProvaQuestorCSharp.Infra.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T08:38:57.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BancoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Infrastructure\\Repositories\\BancoRepository.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Infrastructure\\Repositories\\BancoRepository.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Infrastructure\\Repositories\\BancoRepository.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Infrastructure\\Repositories\\BancoRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:23:47.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BancoController.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Controllers\\BancoController.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Controllers\\BancoController.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Controllers\\BancoController.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Controllers\\BancoController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:23:38.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoletoController.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Controllers\\BoletoController.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Controllers\\BoletoController.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Controllers\\BoletoController.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Controllers\\BoletoController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:08:02.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProvaQuestorCSharp.Domain",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj",
+              "RelativeToolTip": "ProvaQuestorCSharp.Domain\\ProvaQuestorCSharp.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T08:41:01.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BancoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Application\\ViewModel\\BancoViewModel.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Application\\ViewModel\\BancoViewModel.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Application\\ViewModel\\BancoViewModel.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Application\\ViewModel\\BancoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:23:42.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBancoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\Model\\IBancoRepository.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Domain\\Model\\IBancoRepository.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\Model\\IBancoRepository.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Domain\\Model\\IBancoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:23:33.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BoletoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\DTOs\\BoletoDTO.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Domain\\DTOs\\BoletoDTO.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\DTOs\\BoletoDTO.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Domain\\DTOs\\BoletoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:22:58.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\Model\\Banco.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Domain\\Model\\Banco.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\Model\\Banco.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Domain\\Model\\Banco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:22:31.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Boleto.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\Model\\Boleto.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Domain\\Model\\Boleto.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\Model\\Boleto.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Domain\\Model\\Boleto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:19:36.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoletoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Infrastructure\\Repositories\\BoletoRepository.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Infrastructure\\Repositories\\BoletoRepository.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Infrastructure\\Repositories\\BoletoRepository.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Infrastructure\\Repositories\\BoletoRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T07:43:25.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BancoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\DTOs\\BancoDTO.cs",
+              "RelativeDocumentMoniker": "ProvaQuestorCSharp\\Domain\\DTOs\\BancoDTO.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\ProvaQuestorCSharp\\ProvaQuestorCSharp\\Domain\\DTOs\\BancoDTO.cs",
+              "RelativeToolTip": "ProvaQuestorCSharp\\Domain\\DTOs\\BancoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:22:27.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProvaQuestorCSharp.Application/1.0.0": {
+        "dependencies": {
+          "ProvaQuestorCSharp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProvaQuestorCSharp.Application.dll": {}
+        }
+      },
+      "ProvaQuestorCSharp.Domain/1.0.0": {
+        "runtime": {
+          "ProvaQuestorCSharp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProvaQuestorCSharp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProvaQuestorCSharp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
