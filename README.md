@@ -53,14 +53,8 @@ Este repositório contém a implementação de uma API RESTful utilizando .NET 6
 ### Validações
 - Validações implementadas para todos os campos obrigatórios nas entidades **Boleto** e **Banco**.
 
-## Pontos Extras Implementados (Opcional)
+## Pontos Extras Implementados
 - **Autenticação JWT**: Para proteger os endpoints sensíveis da API.
 - **DTOs**: Utilização de Data Transfer Objects para a comunicação entre a API e o cliente.
 - **AutoMapper**: Para mapeamento automático entre as entidades e os DTOs.
 - **Separação em Camadas**: O projeto segue a arquitetura em camadas (Controllers, Services, Repositories) para melhor organização e manutenção do código.
-
-## Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
