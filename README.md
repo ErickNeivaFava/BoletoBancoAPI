@@ -7,8 +7,8 @@ Este repositório contém a implementação de uma API RESTful utilizando .NET 6
 - Entity Framework Core
 - PostgreSQL
 - Swagger para documentação da API
-- AutoMapper (opcional)
-- JWT para autenticação (opcional)
+- AutoMapper
+- JWT para autenticação
 
 ## Funcionalidades Implementadas
 
@@ -17,7 +17,7 @@ Este repositório contém a implementação de uma API RESTful utilizando .NET 6
 #### 1. Cadastro de Boleto
 - `POST /api/boletos`
 - Propriedades:
-  - `Id` (Obrigatório)
+  - `Id` (Obrigatório) - PK
   - `Nome do Pagador` (Obrigatório)
   - `CPF/CNPJ do Pagador` (Obrigatório)
   - `Nome do Beneficiário` (Obrigatório)
@@ -25,12 +25,12 @@ Este repositório contém a implementação de uma API RESTful utilizando .NET 6
   - `Valor` (Obrigatório)
   - `Data de Vencimento` (Obrigatório)
   - `Observação` (Opcional)
-  - `BancoId` (Obrigatório) - Relacionamento com a entidade Banco
+  - `BancoId` (Obrigatório) - FK - Relacionamento com a entidade Banco
 
 #### 2. Cadastro de Banco
 - `POST /api/bancos`
 - Propriedades:
-  - `Id` (Obrigatório)
+  - `Id` (Obrigatório) - PK
   - `Nome do Banco` (Obrigatório)
   - `Código do Banco` (Obrigatório)
   - `Percentual de Juros` (Obrigatório)
