@@ -1,6 +1,6 @@
 # API de Boletos e Bancos
 
-Este repositório contém a implementação de uma API RESTful utilizando .NET 6 para gerenciar o cadastro de **Boletos** e **Bancos**. A aplicação foi desenvolvida como parte de um desafio técnico para demonstrar habilidades em desenvolvimento backend com .NET, utilizando Entity Framework, PostgreSQL, e boas práticas de desenvolvimento.
+Este repositório contém a implementação de uma API RESTful utilizando .NET 6 para gerenciar o cadastro de **Boletos** e **Bancos**. A aplicação foi desenvolvida para demonstrar habilidades em desenvolvimento backend com .NET, utilizando Entity Framework, PostgreSQL, e boas práticas de desenvolvimento.
 
 ## Tecnologias Utilizadas
 - .NET 6
